@@ -1,0 +1,155 @@
+<mxfile host="app.diagrams.net" version="24.7.17">
+  <diagram name="RoadMap — bank Standart" id="task4-roadmap">
+    <mxGraphModel dx="1400" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1110" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c3" value="RoadMap Task 4 — ставки для кол-центров" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=23;fontStyle=1;fontColor=#16324F;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="35" y="15" width="1100" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="c4" value="Первые 6 месяцев — MVP. Месяцы 7–12 — улучшения после проверки решения в эксплуатации." style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=11;fontColor=#4A5568;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="35" y="52" width="1400" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="c5" value="Месяц 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2E8F0;strokeColor=#718096;fontColor=#2D3748;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="220" y="95" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="c6" value="Месяц 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2E8F0;strokeColor=#718096;fontColor=#2D3748;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="95" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="c7" value="Месяц 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2E8F0;strokeColor=#718096;fontColor=#2D3748;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="620" y="95" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="c8" value="Месяц 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2E8F0;strokeColor=#718096;fontColor=#2D3748;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="820" y="95" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="c9" value="Месяц 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2E8F0;strokeColor=#718096;fontColor=#2D3748;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="95" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="c10" value="Месяц 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2E8F0;strokeColor=#718096;fontColor=#2D3748;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="95" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="c11" value="Месяцы 7–12 — целевое развитие" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E9D8FD;strokeColor=#805AD5;fontColor=#44337A;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="95" width="420" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="c12" value="Deposit Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EDF2F7;strokeColor=#A0AEC0;fontColor=#2D3748;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="35" y="155" width="175" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4CC;strokeColor=#E5C766;fontColor=#2D3748;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="220" y="155" width="1620" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c14" value="Кол-центр банка" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EDF2F7;strokeColor=#A0AEC0;fontColor=#2D3748;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="35" y="325" width="175" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4CC;strokeColor=#E5C766;fontColor=#2D3748;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="220" y="325" width="1620" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c16" value="Инфраструктура / SFTP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EDF2F7;strokeColor=#A0AEC0;fontColor=#2D3748;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="35" y="495" width="175" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4CC;strokeColor=#E5C766;fontColor=#2D3748;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="220" y="495" width="1620" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c18" value="Партнёрский кол-центр" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EDF2F7;strokeColor=#A0AEC0;fontColor=#2D3748;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="35" y="665" width="175" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4CC;strokeColor=#E5C766;fontColor=#2D3748;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="220" y="665" width="1620" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c20" value="Совместный релиз" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EDF2F7;strokeColor=#A0AEC0;fontColor=#2D3748;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="35" y="835" width="175" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4CC;strokeColor=#E5C766;fontColor=#2D3748;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="220" y="835" width="1620" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c22" value="DS1 Контракты API и CSV" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEEBC8;strokeColor=#DD6B20;fontColor=#7B341E;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="240" y="175" width="170" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="c23" value="DS2 API ставок" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEEBC8;strokeColor=#DD6B20;fontColor=#7B341E;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="430" y="235" width="235" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="c24" value="DS3 CSV-экспорт и retry" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEEBC8;strokeColor=#DD6B20;fontColor=#7B341E;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="535" y="175" width="265" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="c25" value="DS4 Метрики, документация" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEEBC8;strokeColor=#DD6B20;fontColor=#7B341E;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="825" y="235" width="275" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="c26" value="DS5 Версии форматов и новые партнёры" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C6F6D5;strokeColor=#38A169;fontColor=#22543D;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="200" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c27" value="CC1 Экран ставок" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEEBC8;strokeColor=#DD6B20;fontColor=#7B341E;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="330" y="345" width="220" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="c28" value="CC2 API, кэш, дата версии" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEEBC8;strokeColor=#DD6B20;fontColor=#7B341E;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="630" y="405" width="350" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="c29" value="CC3 Приёмка и обучение" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEEBC8;strokeColor=#DD6B20;fontColor=#7B341E;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="345" width="250" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="c30" value="CC4 Улучшение доступности UI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C6F6D5;strokeColor=#38A169;fontColor=#22543D;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="380" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c31" value="INF1 Схема доступа и ключи" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEEBC8;strokeColor=#DD6B20;fontColor=#7B341E;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="240" y="515" width="260" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="c32" value="INF2 SFTP и тестовый доступ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEEBC8;strokeColor=#DD6B20;fontColor=#7B341E;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="430" y="575" width="365" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="c33" value="INF3 Аудит и мониторинг" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEEBC8;strokeColor=#DD6B20;fontColor=#7B341E;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="825" y="515" width="275" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="c34" value="INF4 Резервный ЦОД и сверка" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C6F6D5;strokeColor=#38A169;fontColor=#22543D;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="550" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c35" value="PC1 Формат, доступ, регламент" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEEBC8;strokeColor=#DD6B20;fontColor=#7B341E;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="290" y="685" width="300" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="c36" value="PC2 Скачивание и импорт CSV" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEEBC8;strokeColor=#DD6B20;fontColor=#7B341E;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="630" y="745" width="350" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="c37" value="PC3 Совместная приёмка" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEEBC8;strokeColor=#DD6B20;fontColor=#7B341E;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="685" width="250" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="c38" value="PC4 Подтверждение и SLA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C6F6D5;strokeColor=#38A169;fontColor=#22543D;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="720" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c39" value="INT1 Сквозные, нагрузочные и ИБ-тесты" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEEBC8;strokeColor=#DD6B20;fontColor=#7B341E;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="855" width="285" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="c40" value="INT2 Релиз MVP и мониторинг" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FED7D7;strokeColor=#C53030;fontColor=#742A2A;fontStyle=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="930" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c41" value="INT3 Анализ обращений и следующий этап" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C6F6D5;strokeColor=#38A169;fontColor=#22543D;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="890" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#718096;strokeWidth=1.2;dashed=1;fontSize=8;fontColor=#4A5568;" edge="1" parent="1" source="c22" target="c23">
+          <mxGeometry relative="1" as="geometry">
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#718096;strokeWidth=1.2;dashed=1;fontSize=8;fontColor=#4A5568;" edge="1" parent="1" source="c22" target="c24">
+          <mxGeometry relative="1" as="geometry">
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#718096;strokeWidth=1.2;dashed=1;fontSize=8;fontColor=#4A5568;" edge="1" parent="1" source="c23" target="c28">
+          <mxGeometry relative="1" as="geometry">
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#718096;strokeWidth=1.2;dashed=1;fontSize=8;fontColor=#4A5568;" edge="1" parent="1" source="c32" target="c36">
+          <mxGeometry relative="1" as="geometry">
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#718096;strokeWidth=1.2;dashed=1;fontSize=8;fontColor=#4A5568;" edge="1" parent="1" source="c25" target="c39">
+          <mxGeometry relative="1" as="geometry">
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#718096;strokeWidth=1.2;dashed=1;fontSize=8;fontColor=#4A5568;" edge="1" parent="1" source="c37" target="c39">
+          <mxGeometry relative="1" as="geometry">
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#718096;strokeWidth=1.2;dashed=1;fontSize=8;fontColor=#4A5568;" edge="1" parent="1" source="c39" target="c40">
+          <mxGeometry relative="1" as="geometry">
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
